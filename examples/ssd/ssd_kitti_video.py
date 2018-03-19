@@ -91,8 +91,8 @@ lr_mult = 1.
 # Stores LabelMapItem.
 label_map_file = "data/KITTI/labelmap_kitti.prototxt"
 # The resized image size
-resize_width = 1242
-resize_height = 375
+resize_width = 300 #1242
+resize_height = 300 #375
 
 # Parameters needed for test.
 # Set the number of test iterations to the maximum integer number.
